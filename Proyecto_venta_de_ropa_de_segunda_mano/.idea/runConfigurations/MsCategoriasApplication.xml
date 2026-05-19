@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MsCategoriasApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="ms-categorias" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.e_commerce.ms_categorias.MsCategoriasApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MsStockApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="ms-stock" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.e_commerce.ms_stock.MsStockApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

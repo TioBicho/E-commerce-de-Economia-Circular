@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MsSucursalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="ms-sucursal" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.e_commerce.ms_sucursal.MsSucursalApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

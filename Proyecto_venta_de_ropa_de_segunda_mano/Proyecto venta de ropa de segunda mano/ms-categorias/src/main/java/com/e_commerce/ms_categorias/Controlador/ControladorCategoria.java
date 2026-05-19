@@ -30,4 +30,17 @@ public class ControladorCategoria {
     public ResponseEntity<List<ModeloCategoria>> obtenerTodas() {
         return ResponseEntity.ok(servicioCategoria.obtenerTodas());
     }
+
+    @PutMapping("/actualizar/{id}")
+    public ResponseEntity<ModeloCategoria> actualizarCategoria(@PathVariable Long id, @Valid @RequestBody categoriaDTO dto) {
+        ModeloCategoria categoriaActualizada = servicioCategoria.actualizarCategoria(id, dto);
+        return ResponseEntity.ok(categoriaActualizada);
+    }
+
+
+    @DeleteMapping("/eliminar/{id}")
+    public ResponseEntity<Void> eliminarCategoria(@PathVariable Long id) {
+        servicioCategoria.eliminarCategoria(id);
+        return ResponseEntity.noContent().build();
+    }
 }

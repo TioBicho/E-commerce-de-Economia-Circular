@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MsEmpleadosApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="ms-empleados" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.e_commerce.ms_empleados.MsEmpleadosApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

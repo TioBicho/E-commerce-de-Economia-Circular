@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MsTiporopaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="ms-tiporopa" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.e_commerce.ms_tiporopa.MsTiporopaApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

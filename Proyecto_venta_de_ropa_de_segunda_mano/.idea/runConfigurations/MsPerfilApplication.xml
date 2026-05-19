@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MsPerfilApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
+    <module name="ms-perfil" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.e_commerce.ms_perfil.MsPerfilApplication" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.e_commerce.ms_perfil.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
