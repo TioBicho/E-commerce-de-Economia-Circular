@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Proyecto venta de ropa de segunda mano/ms_api/pom.xml" />
+        <option value="$PROJECT_DIR$/Proyecto venta de ropa de segunda mano/ms-stock/pom.xml" />
+        <option value="$PROJECT_DIR$/Proyecto venta de ropa de segunda mano/ms-envios/pom.xml" />
+        <option value="$PROJECT_DIR$/Proyecto venta de ropa de segunda mano/ms-perfil/pom.xml" />
+        <option value="$PROJECT_DIR$/Proyecto venta de ropa de segunda mano/ms-ventas/pom.xml" />
+        <option value="$PROJECT_DIR$/Proyecto venta de ropa de segunda mano/ms_eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/Proyecto venta de ropa de segunda mano/ms-cliente/pom.xml" />
+        <option value="$PROJECT_DIR$/Proyecto venta de ropa de segunda mano/ms-nominas/pom.xml" />
+        <option value="$PROJECT_DIR$/Proyecto venta de ropa de segunda mano/ms-prendas/pom.xml" />
+        <option value="$PROJECT_DIR$/Proyecto venta de ropa de segunda mano/ms-regiones/pom.xml" />
+        <option value="$PROJECT_DIR$/Proyecto venta de ropa de segunda mano/ms-sucursal/pom.xml" />
+        <option value="$PROJECT_DIR$/Proyecto venta de ropa de segunda mano/ms-tiporopa/pom.xml" />
+        <option value="$PROJECT_DIR$/Proyecto venta de ropa de segunda mano/ms-usuarios/pom.xml" />
+        <option value="$PROJECT_DIR$/Proyecto venta de ropa de segunda mano/ms-empleados/pom.xml" />
+        <option value="$PROJECT_DIR$/Proyecto venta de ropa de segunda mano/ms-categorias/pom.xml" />
+        <option value="$PROJECT_DIR$/Proyecto venta de ropa de segunda mano/ms-detalleventas/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_26" project-jdk-name="ms-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
